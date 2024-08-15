@@ -1,0 +1,1 @@
+# philosophers-forbidden-functions-checker-
