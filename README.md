@@ -32,10 +32,13 @@ This script checks for forbidden functions in the Minishell project.
 ### Example Output
 
 ### No forbidden functions detected
+```sh
 Forbidden functions checker for philosophers (Subject v11)<br>
 ✅ OK: No forbidden functions found. ✅
+```
 
 ### Forbidden functions detected
+```sh
 Forbidden functions checker for mandatory philosophers (Subject v.11)
 ❌ Forbidden functions detected ❌:
 dirfd
@@ -63,4 +66,4 @@ stderr
 stdout
 sysconf
 syslog
-
+```
