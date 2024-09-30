@@ -7,7 +7,7 @@ Philosophers forbidden functions checker (Subject v11)
 
 ## Download and Run the Bash Script
 
-This script checks for forbidden functions in the Minishell project.
+This script checks for forbidden functions in the Philosophers project.
 
 ### Steps to Download and Run
 
